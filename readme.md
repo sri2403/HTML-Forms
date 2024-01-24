@@ -21,3 +21,5 @@ This web page features a basic HTML form where users can input their personal in
 2. Fill out the form with your personal information.
 3. Select your gender and favorite foods.
 4. Click the "Submit" button to add your information to the table below the form.
+
+op=>https://html-form-table-sri2403.netlify.app/
